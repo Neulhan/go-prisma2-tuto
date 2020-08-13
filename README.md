@@ -70,7 +70,7 @@
     Prisma Client Go 클라이언트는 "output" 옵션 (여기서는 `"./db/db_gen.go"`) 을 통해 지정한 파일경로에 생성됨.  
     만약 prisma schema 에 변경사항이 있으면, 이 명령어를 한 번 더 실행해야함
 
-## Usage
+
 ## 사용
 
 Prisma Client Go 클라이언트를 일단 한 번 생성하고, Prisma를 통해 데이터소스를 세팅하면, 시작할 준비가 됨!
